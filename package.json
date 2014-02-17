@@ -1,0 +1,15 @@
+{
+    "name": "tcpEventify",
+    "description": "Transform TCP sockets into custom event emitters",
+    "homepage": "https://github.com/jorgezaccaro/tcpEventify",
+    "author": {
+        "name": "Jorge Zaccaro",
+        "email": "jorgezaccaro@gmail.com",
+        "url": "https://github.com/jorgezaccaro"
+    },
+    "version": "0.0.1",
+    "license": "MIT",
+    "depedencies": {},
+    "keywords": ["tcp", "custom", "events", "eventify"],
+    "main": "tcpEventify.js"
+}
